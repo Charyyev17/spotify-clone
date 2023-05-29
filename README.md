@@ -1,6 +1,6 @@
 # Spotify - Clone
 
-This Spotify clone developed by using Reactjs, TailwindCss.
+This Spotify clone developed by using Reactjs, TailwindCss JUST for Web versions, NOT recursive and doesn't work healthly on mobile versions.
 
 Website is LIVE on -> [https://spotify-clone-by-sch.netlify.app/](https://spotify-clone-by-sch.netlify.app/)
 
